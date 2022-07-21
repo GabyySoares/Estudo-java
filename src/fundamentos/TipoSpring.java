@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class TipoSpring {
 
     public  static void main (String[] args) {

@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class ConversaoTipoPrimitivonumerico {
 
     public static void main (String [] args){
